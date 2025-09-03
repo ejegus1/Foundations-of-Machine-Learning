@@ -1,2 +1,2 @@
 # Foundations-of-Machine-Learning
-Machine learning practice 
+Intro to ML. These notebooks mostly cover mulivariable linear regression. 
